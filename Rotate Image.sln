@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate Image", "Rotate Image\Rotate Image.csproj", "{FD5385F3-3505-461D-90BA-00B923624F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5385F3-3505-461D-90BA-00B923624F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5385F3-3505-461D-90BA-00B923624F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5385F3-3505-461D-90BA-00B923624F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5385F3-3505-461D-90BA-00B923624F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD00F8E-21BD-4CC6-AA0B-375E628EF67D}
+	EndGlobalSection
+EndGlobal
